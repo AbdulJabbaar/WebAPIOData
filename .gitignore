@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WebAPIOData
+/WebAPIOData/bin/Debug/netcoreapp3.1
+/WebAPIOData/obj
